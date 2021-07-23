@@ -8,7 +8,7 @@
 
 .home-page{
   
-    background-image: url(/proj.jpeg);
+    background-image: url(./proj.jpeg);
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
