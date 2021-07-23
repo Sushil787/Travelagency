@@ -115,7 +115,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 10%;
 }
-p{
+.resourses p,.contact p{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-bottom: 2px solid white;
